@@ -1,0 +1,25 @@
+﻿@model Ejercicio3_Unidad8_SGEMP.Models.entidades.clsPersona
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Editar</title>
+</head>
+<body>
+    <form method="post" action="/home/Editar">
+        <p style="text-align:left;">
+            Nombre @Html.TextBoxFor(Model => Model.Nombre)
+        </p>
+        <p style="text-align:left;">
+            Apellidos @Html.TextBoxFor(Model => Model.Apellidos)
+        </p>
+        <p style="text-align:left;">
+            Dirección @Html.TextBoxFor(Model => Model.Direccion)
+        </p>
+        <p style="text-align:left;">
+            Número de teléfono @Html.TextBoxFor(Model => Model.Telefono)
+        </p>
+        <input type="submit" value="Enviar" />
+    </form>
+</body>
+</html>

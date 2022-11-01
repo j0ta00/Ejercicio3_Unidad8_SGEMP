@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3_Unidad8_SGEMP", "Ejercicio3_Unidad8_SGEMP\Ejercicio3_Unidad8_SGEMP.csproj", "{6AA5EBB9-C1B0-4B8F-99BC-98A6AB6DA3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioMandaloriano_Unidad8_SGEMP", "EjercicioMandaloriano_Unidad8_SGEMP\EjercicioMandaloriano_Unidad8_SGEMP.csproj", "{36ECA0CD-0DA2-4CD6-A615-CD4AF7D54BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA5EBB9-C1B0-4B8F-99BC-98A6AB6DA3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AA5EBB9-C1B0-4B8F-99BC-98A6AB6DA3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AA5EBB9-C1B0-4B8F-99BC-98A6AB6DA3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AA5EBB9-C1B0-4B8F-99BC-98A6AB6DA3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36ECA0CD-0DA2-4CD6-A615-CD4AF7D54BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ECA0CD-0DA2-4CD6-A615-CD4AF7D54BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ECA0CD-0DA2-4CD6-A615-CD4AF7D54BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ECA0CD-0DA2-4CD6-A615-CD4AF7D54BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43498B39-84A4-427F-B0C5-ABCE15C3789B}
+	EndGlobalSection
+EndGlobal
